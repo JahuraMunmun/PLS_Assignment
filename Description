@@ -1,0 +1,11 @@
+#This document explains different types of array memory allocation strategies in C++ and Python with examples and key differences. The four categories covered are:
+1.Fixed Stack Dynamic
+2.Stack Dynamic
+3.Fixed Heap Dynamic
+4.Heap Dynamic
+
+##Language compariison
+1. For syntan and declaration C++ requires explicit data types and and often a fixed size for array like "int arr[5]" on the other hand Python usees dynamic lists like "arr = [1,2,3]"
+2. C++ uses both stack and heep while Python uses only heep withautomatic garbage collections.
+3. C++: Arrays are strongly typed on the other hand in python lists can hold mixed types.
+4. C++ is faster and more memory efficient, Python is slower but easier and safer for development.
